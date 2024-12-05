@@ -1,2 +1,2 @@
-# ellocani-AI-Assignment2_Classification
-ellocani/AI-Assignment2_Classification
+# AI-Assignment2_Classification
+AI-Assignment2_Classification
